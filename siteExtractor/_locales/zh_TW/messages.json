@@ -1,0 +1,140 @@
+{
+   "activate": {
+      "message": "打開 CSS Scan"
+   },
+   "click_to_copy": {
+      "message": "點擊複製，或是按空格键"
+   },
+   "click_traverse": {
+      "message": "然後透過點擊來穿越"
+   },
+   "close_shortcut": {
+      "message": "關閉 CSS Scan"
+   },
+   "context_menu": {
+      "message": "使用CSS Scan進行檢查"
+   },
+   "continue": {
+      "message": "繼續"
+   },
+   "copied": {
+      "message": "複製到剪貼板"
+   },
+   "description": {
+      "message": "快速檢查和複製 CSS 計數值"
+   },
+   "exit": {
+      "message": "關閉 CSS Scan"
+   },
+   "feedback": {
+      "message": "反饋"
+   },
+   "hold": {
+      "message": "保留"
+   },
+   "loading": {
+      "message": "樣式下載中...再試一次"
+   },
+   "local_error": {
+      "message": "錯誤：無法解析樣式，因為其樣式表是在本地系统文件中。要使用CSS Scan，請通過本機伺服器打開頁面，或者把樣式表上傳到外部伺服器上。"
+   },
+   "move": {
+      "message": "移動"
+   },
+   "no_styles": {
+      "message": "沒有找到任何樣式"
+   },
+   "options": {
+      "message": "選項"
+   },
+   "options_click_to_copy": {
+      "message": "複製代碼"
+   },
+   "options_click_to_pin": {
+      "message": "固定CSS視窗"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "將字體大小量度單位轉換為px"
+   },
+   "options_copy_classes": {
+      "message": "複製CSS選擇器"
+   },
+   "options_copy_html": {
+      "message": "單獨複製"
+   },
+   "options_copy_pseudo": {
+      "message": "單獨複製"
+   },
+   "options_dont_copy_html": {
+      "message": "不要復制"
+   },
+   "options_dont_copy_pseudo": {
+      "message": "不要復制"
+   },
+   "options_guidelines": {
+      "message": "指導方針"
+   },
+   "options_ignore_bxsizing": {
+      "message": "忽略 box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "忽略繼承的屬性"
+   },
+   "options_ignore_prefixes": {
+      "message": "忽略瀏覽器供應商前綴"
+   },
+   "options_label_click_action": {
+      "message": "點擊時："
+   },
+   "options_label_display": {
+      "message": "顯示："
+   },
+   "options_label_html": {
+      "message": "HTML代碼："
+   },
+   "options_label_miscellaneous": {
+      "message": "其他："
+   },
+   "options_label_pseudos": {
+      "message": "偽類和偽元素樣式："
+   },
+   "options_nest_pseudo": {
+      "message": "複製它嵌套（SASS / LESS)"
+   },
+   "options_show_grid": {
+      "message": "格網"
+   },
+   "options_truncate_classes": {
+      "message": "截斷的選擇器"
+   },
+   "overlapping": {
+      "message": "重疊"
+   },
+   "pause": {
+      "message": "暫停"
+   },
+   "pause_continue": {
+      "message": "暫停 / 繼續"
+   },
+   "pin_shortcut": {
+      "message": "Pin box"
+   },
+   "scan_parent": {
+      "message": "掃描父元素"
+   },
+   "shortcuts": {
+      "message": "快捷鍵"
+   },
+   "shortcuts_warning_1": {
+      "message": "頁面狀態下需要使用於快捷鍵才有效。 如果您始終通過快捷方式打開擴展程序，則會更容易。"
+   },
+   "shortcuts_warning_2": {
+      "message": "您也可以通過點擊來更改。"
+   },
+   "toggle_grid": {
+      "message": "開關網格"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

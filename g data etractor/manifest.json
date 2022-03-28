@@ -1,0 +1,35 @@
+{
+   "background": {
+      "scripts": [ "libs/jquery-3.1.1.min.js", "js/consts.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/default_icon_128.png",
+         "16": "images/default_icon_16.png",
+         "24": "images/default_icon_24.png",
+         "32": "images/default_icon_32.png",
+         "48": "images/default_icon_48.png"
+      },
+      "default_title": "google map extract by mrakm"
+   },
+   "content_scripts": [ {
+      "js": [ "libs/jquery-3.1.1.min.js", "contentscript/content.js" ],
+      "matches": [ "*://*.google.com/search?*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "google map extract by mrakm tool helps to you extract data from google maps search result pages and into Microsoft Excel spreadsheets",
+   "icons": {
+      "128": "images/default_icon_128.png",
+      "16": "images/default_icon_16.png",
+      "24": "images/default_icon_24.png",
+      "32": "images/default_icon_32.png",
+      "48": "images/default_icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiAwxeau435UjapOwr4hVjlScMKD5HHFrR9pYCsn55ZVxgk9zi4f2y4rmizCJHSoMJQmQF42pGgiDGFxMmBEM+w+MIHPWTMoKThVdXfl2QFKN4fwa7ytq9qSKugQA0i8KI/GQasww8RiZwrIRCoSN2YFKATsjRl5qbnWnH97yvXu0tzWG9lXsOf0RKYh1ai11B5QHSH8iKy5RxjlejTpHTIZhcDaB/t1kLMz0yZ92eupD8jn/X6c1OBlK6WqEhrZ7CCpjo868F8Hk65y85QyYzCFrK2iEXAUoBNd5iSm0Q2abJ0lnwTsD/28RJiDPAcPmXkXmlANHN0BG0Cvvvm/XpQIDAQAB",
+   "manifest_version": 2,
+   "name": "google map extract by mrakm",
+   "permissions": [ "activeTab", "alarms", "downloads", "notifications", "storage"],
+   "version": "1.16",
+   "web_accessible_resources": [ "images/*" ]
+}

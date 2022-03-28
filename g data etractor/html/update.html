@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet prefetch" href="../css/bootstrap.min.css">
+	<link rel="stylesheet" href="../css/all.css">
+	<link rel="stylesheet" href="../css/index.css">
+	<title> G Map Extractor | Update | V:1.16 </title>
+</head>
+<body style="height: 580px;">
+	<div class="container-fluid section-body">
+		<div class="container-fluid">
+			<div class="row">
+				<h4 class="section-header"> G Map Extractor | Update
+					<a href="#" class="close close-popup" aria-label="close">&times;</a>
+				</h4>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<br>
+		<div class="row">
+			<div class="col-md-4">
+			</div>
+			<div class="col-md-4">
+				<h4>STEP 1 </h4>
+				<hr>
+				<form method="post" id="update-form" action="" enctype="multipart/form-data">
+					<div class="">
+						<div class="form-group">
+							<label for="user_email_input">Enter User Email</label>
+							<input type="email" class="form-control" name="user_email_input" id="user_email_input" placeholder="Get OTP On Your Registered Email id">
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-12 text-center">
+								<button type="submit" class="btn btn-primary"> Submit Request </button>
+							</div>
+						</div>
+						<div class="text-center loadingSection" style="display:none;">
+							<br>
+							<i class="fa fa-spinner fa-spin fa-2x"></i>
+						</div>
+						<br>
+						<div class="text-danger update_error_msg" style="display:none;">
+						</div>
+						<div class="updateResSection">
+						</div>
+					</div>
+				</form>
+				<hr>
+				<h4>STEP 2 </h4>
+				<hr>
+				<form method="post" id="update-otp-form" action="" enctype="multipart/form-data">
+					<div class="">
+						<div class="form-group">
+							<label for="user_email_input">Enter Email</label>
+							<input type="email" class="form-control" name="user_email_input" id="user_email_input" placeholder="Enter Email">
+						</div>
+						<div class="form-group">
+							<label for="user_otp_input">Enter Otp/Master Otp</label>
+							<input type="text" class="form-control" name="user_otp_input" id="user_otp_input" placeholder="Enter Otp/Master Otp">
+						</div>
+						<br>
+						<div class="row">
+							<div class="col-md-12 text-center">
+								<button type="submit" class="btn btn-primary"> Submit </button>
+							</div>
+						</div>
+						<div class="text-center loadingSection" style="display:none;">
+							<br>
+							<i class="fa fa-spinner fa-spin fa-2x"></i>
+						</div>
+						<br>
+						<div class="text-danger update_error_msg" style="display:none;">
+						</div>
+						<div class="updateResSection">
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<!-- <div class="section-footer">
+		<h5> Version | 1.13 </h5>
+	</div> -->
+</div>
+<script type="text/javascript" src="../libs/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="../libs/bootstrap.min.js"></script>
+<script type="text/javascript" src="../js/update.js"></script>
+</body>
+</html>

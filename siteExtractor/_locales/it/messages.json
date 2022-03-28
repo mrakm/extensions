@@ -1,0 +1,140 @@
+{
+   "activate": {
+      "message": "Attiva l'estensione"
+   },
+   "click_to_copy": {
+      "message": "Clicca per copiare, premi la barra spaziatrice per pinnare"
+   },
+   "click_traverse": {
+      "message": "e clicka per attraversare"
+   },
+   "close_shortcut": {
+      "message": "Chiusi l'estensione"
+   },
+   "context_menu": {
+      "message": "Ispeziona con CSS Scan"
+   },
+   "continue": {
+      "message": "Continua"
+   },
+   "copied": {
+      "message": "Copiato"
+   },
+   "description": {
+      "message": "Il metodo più veloce e facile per controllare, copiare e modificare CSS"
+   },
+   "exit": {
+      "message": "Chiudi CSS Scan"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "hold": {
+      "message": "tieni premuto"
+   },
+   "loading": {
+      "message": "Caricamento stili... Prova di nuovo"
+   },
+   "local_error": {
+      "message": "Errore: Gli stili per questo elemento non possono essere analizzati perchè il foglio di stile si trova nel file system locale. Per far funzionare CSS Scan, fai partire un server locale per questa pagina o caricala su un server esterno."
+   },
+   "move": {
+      "message": "Muovi"
+   },
+   "no_styles": {
+      "message": "Nessuno stile trovato"
+   },
+   "options": {
+      "message": "Opzioni"
+   },
+   "options_click_to_copy": {
+      "message": "Copia codice"
+   },
+   "options_click_to_pin": {
+      "message": "Pin la finestra CSS"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Converti le unità di misura font-size in px"
+   },
+   "options_copy_classes": {
+      "message": "Copia il selettore CSS"
+   },
+   "options_copy_html": {
+      "message": "Copialo separatamente"
+   },
+   "options_copy_pseudo": {
+      "message": "Copialo separatamente"
+   },
+   "options_dont_copy_html": {
+      "message": "Non copiarlo"
+   },
+   "options_dont_copy_pseudo": {
+      "message": "Non copiarlo"
+   },
+   "options_guidelines": {
+      "message": "Guidelines"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Ignora box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ingora i prefissi del vendor"
+   },
+   "options_label_click_action": {
+      "message": "Al click:"
+   },
+   "options_label_display": {
+      "message": "Mostra:"
+   },
+   "options_label_html": {
+      "message": "Codice HTML:"
+   },
+   "options_label_miscellaneous": {
+      "message": "Miscellaneo:"
+   },
+   "options_label_pseudos": {
+      "message": "Pseudo-classes and pseudo-elements:"
+   },
+   "options_nest_pseudo": {
+      "message": "Copialo annidiato (SAAS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Selettore troncato"
+   },
+   "overlapping": {
+      "message": "sovrapposizione"
+   },
+   "pause": {
+      "message": "Pausa"
+   },
+   "pause_continue": {
+      "message": "Pausa / Continua"
+   },
+   "pin_shortcut": {
+      "message": "Risultato pin"
+   },
+   "scan_parent": {
+      "message": "Scansiona l'elemento padre"
+   },
+   "shortcuts": {
+      "message": "Scorciatoie"
+   },
+   "shortcuts_warning_1": {
+      "message": "La pagina deve avere il focus affinchè le scorciatoie funzionino. E' più facile se apri sempre l'estensione attraverso i tasti scorciatoia."
+   },
+   "shortcuts_warning_2": {
+      "message": "Puoi anche sostituirli cliccandoci sopra."
+   },
+   "toggle_grid": {
+      "message": "Attiva griglia"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

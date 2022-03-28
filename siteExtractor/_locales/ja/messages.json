@@ -1,0 +1,140 @@
+{
+   "activate": {
+      "message": "機能を有効にする"
+   },
+   "click_to_copy": {
+      "message": "クリックでコピーし、スペースを押すと表示が固定されます"
+   },
+   "click_traverse": {
+      "message": "クリックをすることで親要素に範囲を広げられます"
+   },
+   "close_shortcut": {
+      "message": "エクステンションを閉じる"
+   },
+   "context_menu": {
+      "message": "CSS Scanで検証する"
+   },
+   "continue": {
+      "message": "再開"
+   },
+   "copied": {
+      "message": "クリップボードにコピーしました"
+   },
+   "description": {
+      "message": "簡単でスピーディにCSSを検証＆コピーできるツール."
+   },
+   "exit": {
+      "message": "CSS Scan を閉じる"
+   },
+   "feedback": {
+      "message": "フィードバック"
+   },
+   "hold": {
+      "message": "を押したまま"
+   },
+   "loading": {
+      "message": "スタイルをロード中… 再試行してください"
+   },
+   "local_error": {
+      "message": "Error: Styles for this element can't be parsed because its stylesheet is coming from a local system file. For CSS Scan to work, please turn on a local server for this page or upload the stylesheets to an external server."
+   },
+   "move": {
+      "message": "移動"
+   },
+   "no_styles": {
+      "message": "スタイルが見つかりません"
+   },
+   "options": {
+      "message": "オプション"
+   },
+   "options_click_to_copy": {
+      "message": "スタイルをコピーする"
+   },
+   "options_click_to_pin": {
+      "message": "Pin the CSS window"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "font-sizeの単位をpxに変換する"
+   },
+   "options_copy_classes": {
+      "message": "class名をコピーする"
+   },
+   "options_copy_html": {
+      "message": "別々にコピーする"
+   },
+   "options_copy_pseudo": {
+      "message": "別々にコピーする"
+   },
+   "options_dont_copy_html": {
+      "message": "コピーしない"
+   },
+   "options_dont_copy_pseudo": {
+      "message": "コピーしない"
+   },
+   "options_guidelines": {
+      "message": "ガイドライン"
+   },
+   "options_ignore_bxsizing": {
+      "message": "box-sizingを無視する"
+   },
+   "options_ignore_inherited": {
+      "message": "継承されたスタイルを無視する"
+   },
+   "options_ignore_prefixes": {
+      "message": "ベンダー接頭辞を無視する"
+   },
+   "options_label_click_action": {
+      "message": "クリックの動作設定:"
+   },
+   "options_label_display": {
+      "message": "表示:"
+   },
+   "options_label_html": {
+      "message": "HTMLコードの設定:"
+   },
+   "options_label_miscellaneous": {
+      "message": "その他の設定:"
+   },
+   "options_label_pseudos": {
+      "message": "擬似要素と擬似クラスの設定:"
+   },
+   "options_nest_pseudo": {
+      "message": "ネストとしてコピーする(SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "グリッド"
+   },
+   "options_truncate_classes": {
+      "message": "切り取られたセレクタ"
+   },
+   "overlapping": {
+      "message": "overlapping"
+   },
+   "pause": {
+      "message": "停止"
+   },
+   "pause_continue": {
+      "message": "停止／再開"
+   },
+   "pin_shortcut": {
+      "message": "Pin result"
+   },
+   "scan_parent": {
+      "message": "親要素をスキャンする"
+   },
+   "shortcuts": {
+      "message": "ショートカット"
+   },
+   "shortcuts_warning_1": {
+      "message": "ショートカットを使うには、ページにフォーカスされている必要があります。ショートカットで拡張機能を使うことが多い場合に便利です。"
+   },
+   "shortcuts_warning_2": {
+      "message": "また、クリックすることでも変更できます。"
+   },
+   "toggle_grid": {
+      "message": "グリッドを表示"
+   },
+   "whats_new": {
+      "message": "アップデート情報"
+   }
+}

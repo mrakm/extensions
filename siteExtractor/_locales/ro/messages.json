@@ -1,0 +1,140 @@
+{
+   "activate": {
+      "message": "Activează extensia"
+   },
+   "click_to_copy": {
+      "message": "Dă click pentru a copia, apasă spațiu pentru a fixa"
+   },
+   "click_traverse": {
+      "message": "și dă click pentru a parcurge"
+   },
+   "close_shortcut": {
+      "message": "Închide extensia"
+   },
+   "context_menu": {
+      "message": "Inspectează cu CSS Scan"
+   },
+   "continue": {
+      "message": "Continuă"
+   },
+   "copied": {
+      "message": "Copiat la clipbard"
+   },
+   "description": {
+      "message": "Cel mai rapid mod de a verifica, copia și edita CSS."
+   },
+   "exit": {
+      "message": "Închide CSS Scan"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "hold": {
+      "message": "ține apăsat"
+   },
+   "loading": {
+      "message": "Stilurile se încarcă... Încearcă din nou"
+   },
+   "local_error": {
+      "message": "Error: Styles for this element can't be parsed because its stylesheet is coming from a local system file. For CSS Scan to work, please turn on a local server for this page or upload the stylesheets to an external server."
+   },
+   "move": {
+      "message": "Mută"
+   },
+   "no_styles": {
+      "message": "Niciun stil găsit"
+   },
+   "options": {
+      "message": "Opțiuni"
+   },
+   "options_click_to_copy": {
+      "message": "Copiază codul"
+   },
+   "options_click_to_pin": {
+      "message": "Fixează fereastra CSS"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Convertește unitatea de măsură pentru font-size la px"
+   },
+   "options_copy_classes": {
+      "message": "Copiază selectorul CSS"
+   },
+   "options_copy_html": {
+      "message": "Copiază separat"
+   },
+   "options_copy_pseudo": {
+      "message": "Copiază separat"
+   },
+   "options_dont_copy_html": {
+      "message": "Nu copia"
+   },
+   "options_dont_copy_pseudo": {
+      "message": "Nu copia"
+   },
+   "options_guidelines": {
+      "message": "Guidelines"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Ignoră box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignoră inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignoră browser vendor prefixes"
+   },
+   "options_label_click_action": {
+      "message": "La click:"
+   },
+   "options_label_display": {
+      "message": "Display:"
+   },
+   "options_label_html": {
+      "message": "HTML code:"
+   },
+   "options_label_miscellaneous": {
+      "message": "Miscellaneous:"
+   },
+   "options_label_pseudos": {
+      "message": "Pseudo-classes and pseudo-elements:"
+   },
+   "options_nest_pseudo": {
+      "message": "Copiază nest-uit (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Selector trunchiat"
+   },
+   "overlapping": {
+      "message": "suprapus"
+   },
+   "pause": {
+      "message": "Pauză"
+   },
+   "pause_continue": {
+      "message": "Pauză / Continuă"
+   },
+   "pin_shortcut": {
+      "message": "Fixează rezultatul"
+   },
+   "scan_parent": {
+      "message": "Scanează elementul părinte"
+   },
+   "shortcuts": {
+      "message": "Scurtături"
+   },
+   "shortcuts_warning_1": {
+      "message": "Pagina trebuie să fie focusată pentru ca scurtăturile să funcționeze. E mai ușor dacă deschizi extensia de fiecare dată cu ajutorul scurtăturii."
+   },
+   "shortcuts_warning_2": {
+      "message": "Poți de asemenea să modifici dând click."
+   },
+   "toggle_grid": {
+      "message": "Comută grid"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}
